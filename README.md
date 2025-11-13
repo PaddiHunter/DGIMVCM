@@ -1,5 +1,6 @@
 # DGIMVCM
-The code for Dynamic Deep Graph Learning for Incomplete Multi-View Clustering with Masked Graph Reconstruction Loss
+The code for Dynamic Deep Graph Learning for Incomplete Multi-View Clustering with Masked Graph Reconstruction Loss.
+
 The implementation of DGIMVCM involves two primary steps. First, ensure all necessary dependencies are installed by executing:
 
 ```
